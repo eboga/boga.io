@@ -1,0 +1,18 @@
+name: boga.io
+tagline:
+url: https://boga.io
+
+markdown: kramdown
+
+kramdown:
+
+plugins:
+
+exclude:
+  - deploy.sh
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  content:
+    output: true

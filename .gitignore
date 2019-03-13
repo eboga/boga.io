@@ -1,0 +1,7 @@
+.jekyll
+.jekyyl-metadata
+.DS_Store
+_site
+.idea/
+deploy.sh
+
